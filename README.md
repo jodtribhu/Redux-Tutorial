@@ -1,10 +1,10 @@
-# DEMO :
+## DEMO :
 ![image](https://user-images.githubusercontent.com/51241236/161106897-a5ad89f7-f07b-42f9-a501-d4df1c82ac8e.png)
 
-# API CALL FROM :
+## API CALL FROM :
 https://jsonplaceholder.typicode.com/todos
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
