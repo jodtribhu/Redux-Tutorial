@@ -8,9 +8,9 @@ const Todo=()=>{
     const dispatch=useAppDispatch();
     const alltodos=useAppSelector(state=>state.todo.all_todos);
     const particularTodo=useAppSelector(state=>state.todo.particular_todo);
-    const clickHandler=()=>[
+    const clickHandler=()=>{
         dispatch(fetchTodos())
-    ]
+    }
     const searchHandler=()=>{
         dispatch(fetchParticularTodo(todo_id))
     }
